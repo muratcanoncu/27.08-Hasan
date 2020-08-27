@@ -31,6 +31,42 @@ nav a {
     margin: 0 1rem 0 1rem;
 }
 nav a:hover {
-    /* opacity: 0.3; */
     color: #898989;
+}
+/* Home Page main part */
+main {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+main img {
+    height: 350px;
+    padding: 20px;
+}
+main div {
+    margin:  30px 0;
+}
+main div h1 {
+    font-size: 3rem;
+    text-shadow: 1px 1px 5px #0546eb; 
+}
+main div p {
+    font-size: 1.5rem;
+    padding: 40px 0;
+}
+main div.home-content a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    border: solid 1px #0bc9eb;
+    border-radius: 20px;
+    background: #0bc9eb;
+    font-weight: bolder;
+    color: white;
+    padding: 10px 50px;
+}
+main div.home-content a:hover {
+    border: solid 1px #0bc9eb;
+    color: #0bc9eb;
+    background: white;
+    transition: 0.3s;
 }
