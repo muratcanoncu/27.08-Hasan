@@ -89,17 +89,17 @@ main div.home-content a:hover {
 mark {
     background: rgb(195, 231, 253);
 }
-/* Services */
-main .services img{
+/* Services-Portfolio*/
+main .services-portfolio img{
     float: left;
     height: 12rem;
     width: 20rem;
 }
-main .services p {
+main .services-portfolio p {
     text-align: left;
     clear: both;
     padding: 0;
 }
-main .services img:nth-of-type(2) {
+main .services-portfolio img:nth-of-type(2) {
     float: right;
 }
