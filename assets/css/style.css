@@ -1,6 +1,7 @@
 /* Google Font */
 /* @import url("https://fonts.googleapis.com/css2?family=Mukta:wght@200;400;700&family=Nanum+Gothic:wght@400;700&display=swap"); */
-----------------------------------
+
+
 :root {
     font-size: 62.5%;
 }
@@ -69,4 +70,22 @@ main div.home-content a:hover {
     color: #0bc9eb;
     background: white;
     transition: 0.3s;
+}
+/* About me Page */
+.about-content > p {
+    border: solid 1px lightblue;
+    border-radius: 5px;
+    display: inline-block;
+    width: 18%;
+    margin: 1.8rem;
+    height: auto;
+    padding: 1rem 0 4rem 0 ;    
+}
+.about-content i {
+    font-size: 4rem;
+    margin: 1.3rem;
+    color: #0bc9eb;
+}
+mark {
+    background: rgb(195, 231, 253);
 }
