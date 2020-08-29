@@ -103,3 +103,13 @@ main .services-portfolio p {
 main .services-portfolio img:nth-of-type(2) {
     float: right;
 }
+/* Contact */
+pre {
+    font-size: 2.2rem;
+}
+main .contact-content i {
+    font-size: 2.9rem;
+    color: blue;
+    margin: 0.9rem;
+    text-shadow: 5px 3px 7px gray;
+}
