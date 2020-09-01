@@ -141,6 +141,7 @@ main .contact-content i {
      main img {
         height: 210px;
         padding: 20px;
-        width: 340px;
+        width: 80%;
+        margin: 0 auto 0 auto;
      }
  }
